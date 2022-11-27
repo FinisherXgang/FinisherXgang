@@ -1,9 +1,9 @@
 ### We Are Bangladeshi Spammer 👋, 
-#### Ethical hacker
+
 
 A passionate frontend programmer from Bangladesh
 
-Skills: REACT / JAV / HTML / CSS / PHP / Java / Python
+Skills: REACT / HTML / CSS / PHP / Java / Python
 
 - 🔭 I’m currently working on Ethical hacker 
 - 🌱 I’m currently learning Ethical hacking 
